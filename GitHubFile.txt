@@ -1,3 +1,5 @@
 My file created in GitHub
 
 This line was added in Git Bash ..
+
+This second line was added
